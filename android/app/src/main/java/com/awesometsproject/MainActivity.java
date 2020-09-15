@@ -1,4 +1,4 @@
-package com.awesometsproject;
+package com.tamogotchi;
 
 import com.facebook.react.ReactActivity;
 
